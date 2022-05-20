@@ -1,4 +1,4 @@
-# Pavê :hatching_chick:
+# Pavê :custard:
 
 ### **Ingredientes**
 
