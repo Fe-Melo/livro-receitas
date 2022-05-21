@@ -2,8 +2,8 @@
 
 Olá! Bem vindo ao meu libro de receitas :hamburger:
 
-* Strogonoff
+* [Strogonoff](/receitas/Strogonoff.md)
 
-* Pavê
+* [Pavê](/receitas/Pavê.md)
 
 * Bolo de cenoura
